@@ -2,3 +2,8 @@ name : Restiani Andhita Mustikasari
 age : 21
 place / date of birth : Bandung / 11 April 2000
 Addres : Depok
+
+name : Abdillah Dzulfikar Mustanir
+age : 25
+place / date of birth : Jombang, 11 September 1996
+Addres : Depok
